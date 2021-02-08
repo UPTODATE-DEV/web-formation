@@ -1,2 +1,2 @@
 # web-formation
-Révision de sos mama
+Révision 'dynamic Langing Page sos mama'
