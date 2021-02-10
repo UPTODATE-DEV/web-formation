@@ -6,7 +6,7 @@
 						<div class="notify setpos"> <span class="heartbit"></span> <span class="point"></span> </div>
                         <img alt="profile" class="margin-b-10  " src="assets/img/avtar-2.png" width="80">
                         <p class="lead margin-b-0 toggle-none">Dim Cloud</p>
-                        <p class="text-muted mv-0 toggle-none">Welcome</p>						
+                        <p class="text-success">online</p>						
                     </div>
 					
                     <ul class="metisMenu nav flex-column" id="menu">
@@ -63,13 +63,30 @@
                         <li class="nav-item">
                             <a  class="nav-link" href="javascript: void(0);" aria-expanded="false"><i class="fa fa-cogs"></i> <span class="toggle-none">UI elements <span class="fa arrow"></span></span></a>
                             <ul class="nav-second-level nav flex-column sub-menu" aria-expanded="false">
-								
+								<li class="nav-item"><a class="nav-link" href="ui-jquery-elements.html">Jquery UI</a></li>
+								<li class="nav-item"><a class="nav-link" href="ui-bootstrap-elements.html">Bootstrap UI</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-typography.html">Typography</a></li>
                                 <li class="nav-item"><a class="nav-link" href="ui-icons.html">Icons</a></li>
 								<li class="nav-item"><a class="nav-link" href="ui-buttons.html">Buttons</a></li>
-                              
+                                <li class="nav-item"><a class="nav-link" href="ui-cards.html">Cards</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-tabs.html">Tabs</a></li>
+								<li class="nav-item"><a class="nav-link" href="ui-card-master.html">Card Master</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-tip-pop.html">Tooltip & Popovers</a></li>
+								<li class="nav-item"><a class="nav-link" href="ui-sweetalerts.html">Sweet Alters</a></li>
+								<li class="nav-item"><a class="nav-link" href="ui-alertify.html">Alertify Alters</a></li>
+								<li class="nav-item"><a class="nav-link" href="ui-modals.html">Modals</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-notification.html">Notification</a></li>
+								<li class="nav-item"><a class="nav-link" href="ui-progress.html">Progress</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-grid.html">Grid System</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-carousel.html">Carousel</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-range-slider.html">Range Slider</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-nestable.html">Nestable</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-treeview.html">Tree View</a></li>
+                                <li class="nav-item"><a class="nav-link" href="ui-draggable-cards.html">Draggable Cards</a></li>
                             </ul>
                         </li>						
                        
+						
                         <li class="nav-item">
                             <a class="nav-link" href="javascript: void(0);" aria-expanded="false"><i class="fa fa-map-marker"></i> <span class="toggle-none">Maps <span class="fa arrow"></span></span></a>
                             <ul class="nav-second-level nav flex-column sub-menu" aria-expanded="false">

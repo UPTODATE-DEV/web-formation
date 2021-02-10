@@ -63,43 +63,37 @@
                 <div class="col-sm-12">
                     <div class="card">
                         <div class="card-header card-default">
-                            User
+                            Basic Steps
                         </div>
                         <div class="card-body">
-                            <form id="confirmForm" method="post" class="form-horizontal" action="#">
+                            <form method="post" class="form-horizontal" action="new.php">
 							<div class="row">
-								<div class="form-group col-sm-6">
-									<label for="firstname">First name</label>
-									<input type="text" class="form-control" id="firstname" name="firstname" placeholder="First name" />
+								<div class="col-md-6">
+									<div class="form-group">
+								    <input type="text" class="form-control" id="firstname" name="firstname" placeholder=" First name" />
+							      </div>
+
 								</div>
-
-								<div class="form-group col-sm-6">
-									<label for="username">Username</label>
-									<input type="text" class="form-control" id="username" name="username" placeholder="Username" />
+								<div class="col-md-6">
+									<div class="form-group">
+								    <input type="text" class="form-control" id="username" name="username" placeholder="username" />
+							      </div>
+							      
 								</div>
-
-								<div class="form-group col-sm-6">
-									<label for="email">Email</label>
-									<input type="text" class="form-control" id="email" name="email" placeholder="Email" />
+								<div class="col-md-6">
+									<div class="form-group">
+								    <input type="password" class="form-control" id="firstname" name="" placeholder="password" />
+							      </div>
+							      
 								</div>
-
-								<div class="form-group col-sm-6">
-									<label for="password">Password</label>
-									<input type="password" class="form-control" id="password" name="password" placeholder="Password" />
+								<div class="col-md-6">
+									<div class="form-group">
+								    <input type="mail" class="form-control" name="mail" placeholder="mail" />
+							      </div>
+							      
 								</div>
-
-							</div>	
- 							
-							<div class="form-group">
-								<div class="checkbox checkbox-primary margin-r-5">
-
-									<input type="checkbox" id="checkbox2 agree" name="agree" value="agree" />
-									<label for="checkbox2 agree"> Please agree to our policy</label>
 								</div>
-							</div>
-
-							<div class="form-group">
-									<button type="submit" class="btn btn-primary" name="confirm" value="Sign up">Confirm</button>
+								<input class="btn btn-primary" type="submit" name="" value="Enregistrer">
 							</div>
 						</form>
                         </div>
