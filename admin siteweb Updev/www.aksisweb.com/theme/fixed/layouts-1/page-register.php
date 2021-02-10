@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.aksisweb.com/theme/fixed/layouts-1/page-login.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Feb 2021 22:29:48 GMT -->
+<!-- Mirrored from www.aksisweb.com/theme/fixed/layouts-1/page-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Feb 2021 22:29:48 GMT -->
 <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>FixedPlus - Bootstrap Admin Dashboard Template</title>
+       <?php include('dimitri/head.php')?>
 
         <!-- Common Plugins -->
         <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -33,44 +30,52 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-4">
-                              <div class="misc-header text-center">
+                            <div class="misc-header text-center">
 								<img alt="" src="assets/img/icon.png" class="logo-icon margin-r-10">
 								<img alt="" src="assets/img/logo-dark.png" class="toggle-none hidden-xs">
                             </div>
                             <div class="misc-box">   
+                                 <p class="text-center">Sign up to get instant access.</p>
                                 <form role="form">
-                                    <div class="form-group">                                      
-                                        <label  for="exampleuser1">Username</label>
-                                        <div class="group-icon">
-                                        <input id="exampleuser1" type="text" placeholder="Username" class="form-control" required="">
-                                        <span class="icon-user text-muted icon-input"></span>
-                                        </div>
+                                   
+                                     <div class="form-group">
+                                         <label for="eampleuser1">Email Id</label>
+                                         <div class="group-icon">
+                                        <input id="eampleuser1" type="text" placeholder="Enter Email" class="form-control" required="">
+                                        <span class="icon-envelope text-muted icon-input"></span>
+                                         </div>
                                     </div>
-                                    <div class="form-group">
-                                        <label for="exampleInputPassword1">Password</label>
-                                        <div class="group-icon">
+                                    <div class="form-group group-icon">
+                                         <label for="exampleInputPassword1">Password</label>
+                                         <div class="group-icon">
                                         <input id="exampleInputPassword1" type="password" placeholder="Password" class="form-control">
                                         <span class="icon-lock text-muted icon-input"></span>
-                                        </div>
+                                         </div>
+                                    </div>
+                                     <div class="form-group group-icon">
+                                         <label for="exampleInputPassword2">Confirm Password</label>
+                                         <div class="group-icon">
+                                        <input id="exampleInputPassword2" type="password" placeholder="Confirm Password" class="form-control">
+                                        <span class="icon-lock text-muted icon-input"></span>
+                                         </div>
                                     </div>
                                     <div class="clearfix">
                                         <div class="float-left">
-                                           <div class="checkbox checkbox-primary margin-r-5">
+											<div class="checkbox checkbox-primary margin-r-5">
 												<input id="checkbox2" type="checkbox" checked="">
-												<label for="checkbox2"> Remember Me </label>
-											</div>
-                                        </div>
-                                        <div class="float-right">
-                                            <button type="submit" class="btn btn-block btn-primary btn-rounded box-shadow">Login</button>
+												<label for="checkbox2"> I Agree with Terms <a href="#">Terms</a> </label>
+											</div> 
                                         </div>
                                     </div>
+									 <button type="submit" class="btn btn-block btn-primary btn-rounded box-shadow mt-10">Register Now</button>
                                     <hr>
-                                    <p class="text-center">Need to Signup?</p>
-                                    <a href="page-register.html" class="btn btn-block btn-success btn-rounded box-shadow">Register Now</a>
+									
+                                    <p class=" text-center">Have an account?</p>
+                                    <a href="page-login.php" class="btn btn-block btn-success btn-rounded box-shadow">Login</a>
                                 </form>
                             </div>
-                            <div class="text-center misc-footer">
-                               <p>Copyright &copy; 2018 FixedPlus</p>
+                            <div class="text-center">
+                                 <p>Copyright &copy; 2021 UpdevWeb</p>
                             </div>
                         </div>
                     </div>
@@ -80,6 +85,7 @@
 
         <!-- Common Plugins -->
         <script src="assets/lib/jquery/dist/jquery.min.js"></script>
+		<script src="assets/lib/bootstrap/js/popper.min.js"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.min.js"></script>
         <script src="assets/lib/pace/pace.min.js"></script>
         <script src="assets/lib/jasny-bootstrap/js/jasny-bootstrap.min.js"></script>
@@ -87,8 +93,6 @@
         <script src="assets/lib/nano-scroll/jquery.nanoscroller.min.js"></script>
         <script src="assets/lib/metisMenu/metisMenu.min.js"></script>
         <script src="assets/js/custom.js"></script>
-		
-    </body>
 
-<!-- Mirrored from www.aksisweb.com/theme/fixed/layouts-1/page-login.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Feb 2021 22:29:48 GMT -->
+<!-- Mirrored from www.aksisweb.com/theme/fixed/layouts-1/page-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Feb 2021 22:29:48 GMT -->
 </html>
