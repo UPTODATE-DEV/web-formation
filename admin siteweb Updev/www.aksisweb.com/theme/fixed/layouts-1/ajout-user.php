@@ -63,52 +63,33 @@
                 <div class="col-sm-12">
                     <div class="card">
                         <div class="card-header card-default">
-                            Basic Steps
+                            User
                         </div>
                         <div class="card-body">
                             <form id="confirmForm" method="post" class="form-horizontal" action="#">
-							
-							<div class="form-group">
-								<label for="firstname">First name</label>
-								<input type="text" class="form-control" id="firstname" name="firstname" placeholder="First name" />
-							</div>
+							<div class="row">
+								<div class="form-group col-sm-6">
+									<label for="firstname">First name</label>
+									<input type="text" class="form-control" id="firstname" name="firstname" placeholder="First name" />
+								</div>
 
-							<div class="form-group">
-								<label for="lastname">Last name</label>
-								<input type="text" class="form-control" id="lastname" name="lastname" placeholder="Last name" />
-							</div>
+								<div class="form-group col-sm-6">
+									<label for="username">Username</label>
+									<input type="text" class="form-control" id="username" name="username" placeholder="Username" />
+								</div>
 
-							<div class="form-group">
-								<label for="username">Username</label>
-								<input type="text" class="form-control" id="username" name="username" placeholder="Username" />
-							</div>
+								<div class="form-group col-sm-6">
+									<label for="email">Email</label>
+									<input type="text" class="form-control" id="email" name="email" placeholder="Email" />
+								</div>
 
-							<div class="form-group">
-								<label for="email">Email</label>
-								<input type="text" class="form-control" id="email" name="email" placeholder="Email" />
-							</div>
+								<div class="form-group col-sm-6">
+									<label for="password">Password</label>
+									<input type="password" class="form-control" id="password" name="password" placeholder="Password" />
+								</div>
 
-							<div class="form-group">
-								<label for="password">Password</label>
-								<input type="password" class="form-control" id="password" name="password" placeholder="Password" />
-							</div>
-
-							<div class="form-group">
-								<label for="confirm_password">Confirm password</label>
-								<input type="password" class="form-control" id="confirm_password" name="confirm_password" placeholder="Confirm password" />
-							</div>
- 							<div class="form-group">
-										<label>Featured Image</label>
-										<div class="fileinput-new" data-provides="fileinput">
-										  <div class="fileinput-preview" data-trigger="fileinput" style="width: 200px; height:150px;"></div>
-											<span class="btn btn-primary  btn-file">
-												<span class="fileinput-new">Select</span>
-												<span class="fileinput-exists">Change</span>
-												<input type="file" id="image" name="image">
-											</span>
-											<a href="#" class="btn btn-danger fileinput-exists" data-dismiss="fileinput">Remove</a>
-										</div>
-									</div>
+							</div>	
+ 							
 							<div class="form-group">
 								<div class="checkbox checkbox-primary margin-r-5">
 
