@@ -5,6 +5,7 @@
 					<div class="card-body border-bottom text-center nav-profile">
 						<div class="notify setpos"> <span class="heartbit"></span> <span class="point"></span> </div>
                         <img alt="profile" class="margin-b-10  " src="assets/img/avtar-2.png" width="80">
+<<<<<<< HEAD
                         <p class="lead margin-b-0 toggle-none">
                         <?php
                         if($_SESSION['user']['USERNAME'] !==array()){
@@ -14,6 +15,9 @@
                         }
                         ?>
                         </p>
+=======
+                        <p class="lead margin-b-0 toggle-none">Dim Cloud</p>
+>>>>>>> c596f1d463f66622723af7e711080be29a340c32
                         <p class="text-success">online</p>						
                     </div>
 					
