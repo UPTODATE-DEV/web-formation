@@ -9,56 +9,56 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700");
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-light-italic-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-light-italic-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-light-italic-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-light-italic-webfont-3.html#ProximaNovaLight") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-light-italic-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-light-italic-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-light-italic-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-light-italic-webfont.svg#ProximaNovaLight") format("svg");
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-light-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-light-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-light-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-light-webfont-3.html#ProximaNovaLight") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-light-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-light-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-light-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-light-webfont.svg#ProximaNovaLight") format("svg");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfont-3.html#ProximaNovaLight") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-regular-italic-webfont.svg#ProximaNovaLight") format("svg");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-regular-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-regular-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-regular-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-regular-webfont-3.html#ProximaNovaRegular") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-regular-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-regular-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-regular-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-regular-webfont.svg#ProximaNovaRegular") format("svg");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfont-3.html#ProximaNovaLight") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-bold-italic-webfont.svg#ProximaNovaLight") format("svg");
   font-weight: 600;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfont-3.html#ProximaNovaLight") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-semibold-italic-webfont.svg#ProximaNovaLight") format("svg");
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-semibold-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-semibold-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-semibold-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-semibold-webfont-3.html#ProximaNovaSemibold") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-semibold-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-semibold-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-semibold-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-semibold-webfont.svg#ProximaNovaSemibold") format("svg");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Proxima Nova', sans-serif;
-  src: url("../../fonts/proxima_nova/proxima-nova-bold-webfontd41d.html?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-bold-webfont.html") format("woff"), url("../../fonts/proxima_nova/proxima-nova-bold-webfont-2.html") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-bold-webfont-3.html#ProximaNovaLight") format("svg");
+  src: url("../../fonts/proxima_nova/proxima-nova-bold-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../../fonts/proxima_nova/proxima-nova-bold-webfont.woff") format("woff"), url("../../fonts/proxima_nova/proxima-nova-bold-webfont.ttf") format("truetype"), url("../../fonts/proxima_nova/proxima-nova-bold-webfont.svg#ProximaNovaLight") format("svg");
   font-weight: 600;
   font-style: normal;
 }
@@ -145,8 +145,8 @@ html {
 
 /* line 2, node_modules/bootstrap/scss/_root.scss */
 :root {
-  --blue: #007bff;
-  --indigo: #6610f2;
+  --blue: #ff3495;
+  --indigo: #e83e8c;
   --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #dc3545;
@@ -158,7 +158,7 @@ html {
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #007bff;
+  --primary: #ff3495;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -316,7 +316,7 @@ sup {
 
 /* line 186, node_modules/bootstrap/scss/_reboot.scss */
 a {
-  color: #007bff;
+  color: #ff3495;
   text-decoration: none;
   background-color: transparent;
 }
@@ -1364,7 +1364,7 @@ textarea.form-control {
 
 /* line 3, src/assets/scss/elements/_elements.links.scss */
 a {
-  color: #6730e3;
+  color: #FF27AD;
   text-decoration: none;
 }
 
@@ -3205,7 +3205,7 @@ table {
 [image-overlay]:before {
   position: absolute;
   content: '';
-  background: linear-gradient(75deg, #4f1bc5, #7b17c5) !important;
+  background: linear-gradient(75deg, #ff3495, #ff00ff) !important;
   width: 100%;
   height: 100%;
   top: 0;
@@ -3270,9 +3270,9 @@ table {
 [data-overlay-gradient]:before {
   position: absolute;
   content: '';
-  background: #6730e3;
-  background: -webkit-gradient(linear, left top, right top, color-stop(5%, #6730e3), color-stop(95%, #9629e6)) !important;
-  background: linear-gradient(to right, #6730e3 5%, #9629e6 95%) !important;
+  background: #FF27AD;
+  background: -webkit-gradient(linear, left top, right top, color-stop(5%, #FF27AD), color-stop(95%, #9629e6)) !important;
+  background: linear-gradient(to right, #FF27AD 5%, #9629e6 95%) !important;
   width: 100%;
   height: 100%;
   top: 0;
@@ -3367,7 +3367,7 @@ table {
 
 /* line 1, src/assets/scss/objects/_objects.background.scss */
 .color-primary {
-  color: #6730e3 !important;
+  color: #FF27AD !important;
 }
 
 /* line 4, src/assets/scss/objects/_objects.background.scss */
@@ -3387,7 +3387,7 @@ table {
 
 /* line 14, src/assets/scss/objects/_objects.background.scss */
 .primary-bg {
-  background: #6730e3 !important;
+  background: #FF27AD !important;
 }
 
 /* line 17, src/assets/scss/objects/_objects.background.scss */
@@ -3402,7 +3402,7 @@ table {
 
 /* line 24, src/assets/scss/objects/_objects.background.scss */
 .gradient-bg {
-  background: linear-gradient(75deg, #4f1bc5, #7b17c5) !important;
+  background: linear-gradient(75deg, #ff3495, #ff00ff) !important;
 }
 
 /*!
@@ -10950,7 +10950,7 @@ readers do not read off random characters that represent icons */
 @font-face {
   font-family: 'themify';
   src: url("../fonts/themify.eot");
-  src: url("../fonts/themifyd41d.eot?#iefix") format("embedded-opentype"), url("../fonts/themify.woff") format("woff"), url("../fonts/themify.ttf") format("truetype"), url("../fonts/themify.html") format("svg");
+  src: url("../fonts/themifyd41d.eot?#iefix") format("embedded-opentype"), url("../fonts/themify.woff") format("woff"), url("../fonts/themify.ttf") format("truetype"), url("../fonts/themify.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -13458,7 +13458,7 @@ img.mfp-img {
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url(owl.video.play.html) no-repeat;
+  background: url(owl.video.play.png) no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
@@ -14124,8 +14124,8 @@ fieldset:disabled a.btn {
 /* line 66, node_modules/bootstrap/scss/_buttons.scss */
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ff3495;
+  border-color: #ff3495;
 }
 
 /* line 13, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -14147,8 +14147,8 @@ fieldset:disabled a.btn {
 /* line 32, node_modules/bootstrap/scss/mixins/_buttons.scss */
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ff3495;
+  border-color: #ff3495;
 }
 
 /* line 43, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -14483,15 +14483,15 @@ fieldset:disabled a.btn {
 
 /* line 72, node_modules/bootstrap/scss/_buttons.scss */
 .btn-outline-primary {
-  color: #007bff;
-  border-color: #007bff;
+  color: #ff3495;
+  border-color: #ff3495;
 }
 
 /* line 13, node_modules/bootstrap/scss/mixins/_hover.scss */
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ff3495;
+  border-color: #ff3495;
 }
 
 /* line 74, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -14502,7 +14502,7 @@ fieldset:disabled a.btn {
 
 /* line 79, node_modules/bootstrap/scss/mixins/_buttons.scss */
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #007bff;
+  color: #ff3495;
   background-color: transparent;
 }
 
@@ -14510,8 +14510,8 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ff3495;
+  border-color: #ff3495;
 }
 
 /* line 92, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -14804,7 +14804,7 @@ fieldset:disabled a.btn {
 /* line 83, node_modules/bootstrap/scss/_buttons.scss */
 .btn-link {
   font-weight: 400;
-  color: #007bff;
+  color: #ff3495;
   text-decoration: none;
 }
 
@@ -15153,7 +15153,7 @@ input[type="button"].btn-block {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #007bff;
+  background-color: #ff3495;
 }
 
 /* line 161, node_modules/bootstrap/scss/_dropdown.scss */
@@ -15599,8 +15599,8 @@ input[type="button"].btn-block {
 /* line 30, node_modules/bootstrap/scss/_custom-forms.scss */
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #fff;
-  border-color: #007bff;
-  background-color: #007bff;
+  border-color: #ff3495;
+  background-color: #ff3495;
 }
 
 /* line 37, node_modules/bootstrap/scss/_custom-forms.scss */
@@ -15676,8 +15676,8 @@ input[type="button"].btn-block {
 
 /* line 126, node_modules/bootstrap/scss/_custom-forms.scss */
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before {
-  border-color: #007bff;
-  background-color: #007bff;
+  border-color: #ff3495;
+  background-color: #ff3495;
 }
 
 /* line 131, node_modules/bootstrap/scss/_custom-forms.scss */
@@ -15951,7 +15951,7 @@ input[type="button"].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #007bff;
+  background-color: #ff3495;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
@@ -15990,7 +15990,7 @@ input[type="button"].btn-block {
 .custom-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #007bff;
+  background-color: #ff3495;
   border: 0;
   border-radius: 1rem;
   -moz-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -16030,7 +16030,7 @@ input[type="button"].btn-block {
   margin-top: 0;
   margin-right: 0.2rem;
   margin-left: 0.2rem;
-  background-color: #007bff;
+  background-color: #ff3495;
   border: 0;
   border-radius: 1rem;
   -ms-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -16203,7 +16203,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #007bff;
+  background-color: #ff3495;
 }
 
 /* line 95, node_modules/bootstrap/scss/_nav.scss */
@@ -17113,7 +17113,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #007bff;
+  color: #ff3495;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -17152,8 +17152,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ff3495;
+  border-color: #ff3495;
 }
 
 /* line 53, node_modules/bootstrap/scss/_pagination.scss */
@@ -17254,7 +17254,7 @@ a.badge:hover, a.badge:focus {
 /* line 51, node_modules/bootstrap/scss/_badge.scss */
 .badge-primary {
   color: #fff;
-  background-color: #007bff;
+  background-color: #ff3495;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -17675,7 +17675,7 @@ a.close.disabled {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #007bff;
+  background-color: #ff3495;
   -webkit-transition: width 0.6s ease;
   transition: width 0.6s ease;
 }
@@ -17792,8 +17792,8 @@ a.close.disabled {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ff3495;
+  border-color: #ff3495;
 }
 
 /* line 77, node_modules/bootstrap/scss/_list-group.scss */
@@ -19267,7 +19267,7 @@ a.close.disabled {
   position: relative;
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
-  background: #6730e3;
+  background: #FF27AD;
 }
 
 /* line 39, src/assets/scss/components/_components.preloader.scss */
@@ -19296,7 +19296,7 @@ a.close.disabled {
 #preloader .preloader-wrap .thecube .c3 {
   -webkit-transform: scale(1.1) rotateZ(180deg);
   transform: scale(1.1) rotateZ(180deg);
-  background: #6730e3;
+  background: #FF27AD;
 }
 
 /* line 66, src/assets/scss/components/_components.preloader.scss */
@@ -19542,13 +19542,13 @@ a.close.disabled {
 /* line 120, src/assets/scss/components/_components.header.scss */
 .header .menu ul li a:hover {
   color: #fff;
-  background: #6730e3;
+  background: #FF27AD;
 }
 
 /* line 125, src/assets/scss/components/_components.header.scss */
 .header .menu ul li:hover > a {
   color: #fff;
-  background: #6730e3;
+  background: #FF27AD;
 }
 
 /* line 130, src/assets/scss/components/_components.header.scss */
@@ -19630,7 +19630,7 @@ a.close.disabled {
 
 /* line 199, src/assets/scss/components/_components.header.scss */
 .affix {
-  background: linear-gradient(75deg, #4f1bc5, #7b17c5) !important;
+  background: linear-gradient(75deg, #ff3495, #ff00ff) !important;
   -webkit-transition: padding 0.4s ease-out;
   transition: padding 0.4s ease-out;
 }
@@ -19652,7 +19652,7 @@ a.close.disabled {
   }
   /* line 219, src/assets/scss/components/_components.header.scss */
   .navbar {
-    background: linear-gradient(75deg, #4f1bc5, #7b17c5) !important;
+    background: linear-gradient(75deg, #ff3495, #ff00ff) !important;
     padding: .45rem 1rem !important;
   }
   /* line 223, src/assets/scss/components/_components.header.scss */
@@ -19858,7 +19858,7 @@ footer a {
   height: auto;
   border: none;
   border-radius: 30px;
-  background-color: #9629e6;
+  background-color: #FF27AD;
   display: inline-block;
   color: #fff;
   padding-left: 30px;
@@ -19909,8 +19909,8 @@ footer a {
 /* line 22, src/assets/scss/components/_components.buttons.scss */
 .btn.active-primary, .btn.active-primary:hover, .btn.active-primary:focus {
   background-color: #fff;
-  border-color: #007bff;
-  color: #007bff;
+  border-color: #ff3495;
+  color: #ff3495;
 }
 
 /* line 29, src/assets/scss/components/_components.buttons.scss */
@@ -20129,7 +20129,7 @@ footer a {
 
 /* line 204, src/assets/scss/components/_components.buttons.scss */
 .btn-outline-brand-01 {
-  border-color: #6730e3;
+  border-color: #FF27AD;
   color: #581edc;
 }
 
@@ -20198,8 +20198,8 @@ footer a {
 
 /* line 269, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-3d-01 {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(#3d1598), to(#6730e3));
-  background-image: linear-gradient(0deg, #3d1598 0%, #6730e3 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#3d1598), to(#FF27AD));
+  background-image: linear-gradient(0deg, #3d1598 0%, #FF27AD 100%);
 }
 
 /* line 272, src/assets/scss/components/_components.buttons.scss */
@@ -20230,8 +20230,8 @@ footer a {
 
 /* line 291, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-3d-01:before {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(#6730e3), to(#3d1598));
-  background-image: linear-gradient(0deg, #6730e3 0%, #3d1598 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#FF27AD), to(#3d1598));
+  background-image: linear-gradient(0deg, #FF27AD 0%, #3d1598 100%);
 }
 
 /* line 294, src/assets/scss/components/_components.buttons.scss */
@@ -22401,7 +22401,7 @@ footer a {
 .background-video:before {
   position: absolute;
   content: '';
-  background-image: linear-gradient(75deg, #4f1bc5, #7b17c5) !important;
+  background-image: linear-gradient(75deg, #ff3495, #ff00ff) !important;
   width: 100%;
   height: 100%;
   top: 0;
@@ -22624,7 +22624,7 @@ footer a {
   }
   /* line 9, src/assets/scss/components/hero-section/_hero-10.scss */
   .background-image-wraper.bg-position-2 {
-    background: #6730e3 !important;
+    background: #FF27AD !important;
   }
 }
 
@@ -22654,7 +22654,7 @@ footer a {
 
 /* line 19, src/assets/scss/components/promo-section/_promo-1.scss */
 .promo-one-single:hover {
-  background: linear-gradient(75deg, #4f1bc5, #7b17c5) !important;
+  background: linear-gradient(75deg, #ff3495, #ff00ff) !important;
   color: #fff;
 }
 
@@ -22715,7 +22715,7 @@ footer a {
   width: 100%;
   height: 100%;
   border-radius: 0;
-  background-color: #6730e3;
+  background-color: #FF27AD;
 }
 
 /* line 27, src/assets/scss/components/promo-section/_promo-2.scss */
@@ -22727,7 +22727,7 @@ footer a {
   height: 95px;
   bottom: -50px;
   border-radius: 35px;
-  background-color: #6730e3;
+  background-color: #FF27AD;
   -webkit-transition: all .3s;
   transition: all .3s;
   z-index: -1;
@@ -22745,7 +22745,7 @@ footer a {
           transform: translateY(-10px);
   -webkit-box-shadow: 0 1rem 3rem rgba(31, 45, 61, 0.125);
           box-shadow: 0 1rem 3rem rgba(31, 45, 61, 0.125);
-  background-color: #6730e3;
+  background-color: #FF27AD;
   color: #fff;
 }
 
@@ -22791,7 +22791,7 @@ footer a {
   font-weight: 900;
   font-size: 1.25rem;
   line-height: 1.5rem;
-  color: #6730e3;
+  color: #FF27AD;
 }
 
 /* line 25, src/assets/scss/components/about-section/_common.scss */
@@ -22837,7 +22837,7 @@ footer a {
   border-radius: 50%;
   left: 0;
   top: 14px;
-  background: #6730e3;
+  background: #FF27AD;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   -webkit-transition: all .5s;
@@ -23019,7 +23019,7 @@ footer a {
   left: 0;
   right: 0;
   bottom: 30%;
-  background: linear-gradient(75deg, #4f1bc5, #7b17c5) !important;
+  background: linear-gradient(75deg, #ff3495, #ff00ff) !important;
 }
 
 /*video popup*/
@@ -23330,7 +23330,7 @@ tr.register-items-header th {
 
 /* line 56, src/assets/scss/components/sereenshots-section/_sale-page.scss */
 .customer-wrap .customer-action .customer-action-list li a i {
-  color: #6730e3;
+  color: #FF27AD;
 }
 
 /* line 65, src/assets/scss/components/sereenshots-section/_sale-page.scss */
@@ -23554,7 +23554,7 @@ tr.register-items-header th {
   position: absolute;
   top: 10px;
   z-index: 1;
-  color: #6730e3;
+  color: #FF27AD;
 }
 
 /* line 24, src/assets/scss/components/price-section/_price-1.scss */
@@ -23583,7 +23583,7 @@ tr.register-items-header th {
   display: inline-block;
   width: 200px;
   height: 37px;
-  border: 1px solid #6730e3;
+  border: 1px solid #FF27AD;
   border-radius: 25px;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -23600,7 +23600,7 @@ tr.register-items-header th {
   left: 4px;
   width: 100px;
   height: 35px;
-  background-color: #6730e3;
+  background-color: #FF27AD;
   border-radius: 25px;
   -webkit-transform: translate3d(-6px, 0, 0);
           transform: translate3d(-6px, 0, 0);
@@ -23699,7 +23699,7 @@ tr.register-items-header th {
   -webkit-box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.12);
   box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.12);
   border-radius: 4px 4px 0 0;
-  background: linear-gradient(75deg, #4f1bc5, #7b17c5);
+  background: linear-gradient(75deg, #ff3495, #ff00ff);
   margin-bottom: 0;
   border: 1px solid rgba(72, 94, 144, 0.16);
 }
@@ -23876,7 +23876,7 @@ tr.register-items-header th {
 
 /* line 35, src/assets/scss/components/blog-section/_blog-1.scss */
 .single-blog-card .card-body .post-meta .meta-list li i {
-  color: #6730e3;
+  color: #FF27AD;
 }
 
 /* line 41, src/assets/scss/components/blog-section/_blog-1.scss */
@@ -24105,7 +24105,7 @@ tr.register-items-header th {
 
 /* line 137, src/assets/scss/components/blog-section/_blog-single.scss */
 .comment-meta-date a:hover, .comment-meta-date a:focus, .comment-meta-date-shop a:hover, .comment-meta-date-shop a:focus {
-  color: #6730e3;
+  color: #FF27AD;
   opacity: 1;
 }
 
@@ -24425,7 +24425,7 @@ input::placeholder {
 
 /* line 5, src/assets/scss/components/contact-section/_contact-1.scss */
 .contact-info-list li .contact-icon span {
-  border: 1px solid #6730e3;
+  border: 1px solid #FF27AD;
 }
 
 /* line 14, src/assets/scss/components/contact-section/_contact-1.scss */
@@ -24608,7 +24608,7 @@ input::placeholder {
 
 /* line 16, src/assets/scss/components/utility/_common.scss */
 .countdown-wrap .row .col h2, .countdown-wrap .row .col h5 {
-  color: #6730e3 !important;
+  color: #FF27AD !important;
 }
 
 /* line 24, src/assets/scss/components/utility/_common.scss */
@@ -24665,7 +24665,7 @@ input::placeholder {
 
 /* line 6, node_modules/bootstrap/scss/mixins/_background-variant.scss */
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #ff3495 !important;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -24821,7 +24821,7 @@ button.bg-dark:focus {
 
 /* line 20, node_modules/bootstrap/scss/utilities/_borders.scss */
 .border-primary {
-  border-color: #007bff !important;
+  border-color: #ff3495 !important;
 }
 
 /* line 20, node_modules/bootstrap/scss/utilities/_borders.scss */
@@ -29251,7 +29251,7 @@ button.bg-dark:focus {
 
 /* line 6, node_modules/bootstrap/scss/mixins/_text-emphasis.scss */
 .text-primary {
-  color: #007bff !important;
+  color: #ff3495 !important;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
