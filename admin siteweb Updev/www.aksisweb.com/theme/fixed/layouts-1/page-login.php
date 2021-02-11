@@ -31,7 +31,7 @@
                     <div class="row justify-content-center">
                         <div class="col-4">
                               <div class="misc-header text-center">
-								<img alt="" src="assets/img/sos.png" width="200px" height="80px" class="logo-icon margin-r-10">
+								<img alt="" src="assets/img/sos.png" class="logo-icon margin-r-10 col-sm-10">
 								
                             </div>
                             <div class="misc-box">   

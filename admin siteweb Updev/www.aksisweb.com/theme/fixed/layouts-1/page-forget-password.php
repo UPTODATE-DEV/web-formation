@@ -50,7 +50,7 @@
                                 </form>
                             </div>
                             <div class="text-center misc-footer">
-                                 <p>Copyright &copy; 2018 FixedPlus</p>
+                                 <p>Copyright &copy; 2021 UpdevWeb</p>
                             </div>
                         </div>
                     </div>

@@ -4,7 +4,7 @@
 					<div class="col">
 						<a class="admin-logo" href="index.html">
 							<h1>
-								<img alt="" src="assets/img/sos.png"width="200px" height="80px" class="logo-icon margin-r-20">
+								<img alt="" src="assets/img/sos.png" class="logo-icon margin-r-20 col-sm-12">
 								
 							</h1>
 						</a>
@@ -156,7 +156,7 @@
 									</li>
 									<li class="dropdown-divider"></li>
 									<li>
-										<a class="dropdown-item" href="javascript:%20void(0);"><i class="icon-logout"></i> Logout</a>
+										<a class="dropdown-item" href="page-login.php"><i class="icon-logout"></i> Logout</a>
 									</li>
 								</ul>
 							</li>
