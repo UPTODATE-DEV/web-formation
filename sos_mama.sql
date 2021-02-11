@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.0.1
+-- version 4.7.4
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le :  mar. 09 fév. 2021 à 19:55
--- Version du serveur :  10.4.6-MariaDB
--- Version de PHP :  7.3.8
+-- Généré le :  jeu. 11 fév. 2021 à 08:06
+-- Version du serveur :  10.1.26-MariaDB
+-- Version de PHP :  7.1.9
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -30,10 +30,21 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `admin` (
   `ID_ADMIN` int(11) NOT NULL,
-  `PASSWORD` varchar(30) DEFAULT NULL,
-  `USERNAME` varchar(30) DEFAULT NULL,
-  `PHOTO` varchar(30) DEFAULT NULL
+  `password` varchar(30) DEFAULT NULL,
+  `username` varchar(30) DEFAULT NULL,
+  `PHOTO` varchar(30) DEFAULT NULL,
+  `name` varchar(30) DEFAULT NULL,
+  `email` varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Déchargement des données de la table `admin`
+--
+
+INSERT INTO `admin` (`ID_ADMIN`, `password`, `username`, `PHOTO`, `name`, `email`) VALUES
+(1, 'qwert', 'webmaster', NULL, 'joel', 'mungumakilumbu@gmail.com'),
+(2, 'le fils ', 'scorpion', NULL, 'le fils ', 'katoro@gmail.com'),
+(3, '1234', 'webmaster', NULL, 'joel', 'jtjoel11@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -102,7 +113,7 @@ CREATE TABLE `banner3` (
 CREATE TABLE `blog` (
   `id` int(11) NOT NULL,
   `titre` varchar(30) DEFAULT NULL,
-  `contenu` text DEFAULT NULL,
+  `contenu` text,
   `date_poste` datetime DEFAULT NULL,
   `photo` varchar(20) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -214,7 +225,7 @@ ALTER TABLE `team`
 -- AUTO_INCREMENT pour la table `admin`
 --
 ALTER TABLE `admin`
-  MODIFY `ID_ADMIN` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `ID_ADMIN` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT pour la table `banner`
