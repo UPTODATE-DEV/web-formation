@@ -53,11 +53,11 @@
 		<!-- ============================================================== -->
 		<div class="row page-header">
 			<div class="col-lg-6 align-self-center ">
-			   <h2>Bootstrap Modals</h2>
+			   <h2>Add Box</h2>
 				<ol class="breadcrumb">
 					<li class="breadcrumb-item"><a href="#">Home</a></li>
-					<li class="breadcrumb-item"><a href="#">Objects</a></li>
-					<li class="breadcrumb-item active">Add Box</li>
+					<li class="breadcrumb-item"><a href="#">Add Box</a></li>
+					<li class="breadcrumb-item active">Box</li>
 				</ol>
 			</div>
 		</div>
@@ -67,7 +67,7 @@
                 <div class="col-md-12">
                     <div class="card">
                         <div class="card-header card-default">
-                            Box
+                           
                             <div class="float-right mt-10">
 								<a href="#" class="btn btn-success margin-r-5 btn-rounded box-shadow btn-icon"data-toggle="modal" data-target="#loginModal"><i class="fa fa-plus"></i> Add New box</a>
 						    </div>
@@ -111,162 +111,7 @@
 												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
                                             </td>
                                         </tr>
-                                        <tr>
-                                            <td>0002</td>
-                                            <td>Box 2</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0003</td>
-                                            <td>Box 3</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                               
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0004</td>
-                                            <td>Box 4</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0005</td>
-                                            <td>Box 5</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0006</td>
-                                            <td>Box 6</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0007</td>
-                                            <td>Box 7</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                               
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0008</td>
-                                            <td>Box 8</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0009</td>
-                                            <td>Box 9</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>00010</td>
-                                            <td>Box 10</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>00011</td>
-                                            <td>Box 11</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>00012</td>
-                                            <td>Box 12</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>00013</td>
-                                            <td>Box 13</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>00014</td>
-                                            <td>Box 14</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
+                                        
                                        
                                     </tbody>
                                 </table>
@@ -306,12 +151,12 @@
 					<div class="modal-content">
 					  <div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="fa fa-times"></span></button>
-						<h5 class="modal-title" id="exampleModalLabel">Login Modal</h5>
+						<h5 class="modal-title" id="exampleModalLabel">Add Box</h5>
 					  </div>
 					  <div class="modal-body">
                             <form role="form">
                                 <div class="form-group">
-										<label>Gallery Images</label>
+										<label>Icon</label>
 										<div class="fileinput fileinput-new input-group col-md-12" data-provides="fileinput">
 											  <div class="form-control" data-trigger="fileinput"><span class="fileinput-filename"></span></div>
 											  <span class="input-group-addon btn btn-primary btn-file ">

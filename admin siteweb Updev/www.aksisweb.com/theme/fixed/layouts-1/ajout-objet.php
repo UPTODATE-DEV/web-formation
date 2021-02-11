@@ -55,33 +55,23 @@
 		<!-- ============================================================== -->
 		
             <div class="row page-header"><div class="col-lg-6 align-self-center ">
-			  <h2>Add Box</h2>
+			  <h2>Add object</h2>
 				<ol class="breadcrumb">
 					<li class="breadcrumb-item"><a href="#">Home</a></li>
-					<li class="breadcrumb-item"><a href="#">Obects</a></li>
-					<li class="breadcrumb-item active">Add Box</li>
+					<li class="breadcrumb-item"><a href="#">Objects</a></li>
+					<li class="breadcrumb-item active">Add object</li>
 				</ol></div></div>
            
         <section class="main-content">
 
-			<div class="alert bg-success alert-dismissible " role="alert"> <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button> <strong>Success!</strong> Box successfully added. </div>
-
             <div class="row">
                 <div class="col">
                     <div class="card">
-                        <div class="card-header card-default">
-							Banner
-							<p class="text-muted">Lorem ipsum dolor sit amet</p>
-                        </div>
+                       
                         <div class="card-body">
 							
                             <form method="get" action="#" class="form-horizontal">
 							
-									<div class="form-group">
-										<label>Name</label>
-										<input type="text" placeholder="New object name" class="form-control form-control-rounded">
-									</div>
-								
                                     <div class="form-group">
 										<label>Title</label>
 										<input type="text" placeholder="New title" class="form-control form-control-rounded">
@@ -89,7 +79,7 @@
                                    
                                     <div class="form-group">
                                         <label>Description</label>
-                                        <div class="summernote" style="display: none;"><p>Entrez votre texte </p></div>
+                                        <div class="summernote" style="display: none;"></div>
                                     </div>
 
                                     <div class="form-group">

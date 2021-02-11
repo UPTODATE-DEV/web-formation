@@ -71,7 +71,7 @@
                     <div class="card">
 					 <div class="card-header card-default">
 							<div class="float-right mt-10">
-								<a href="ecommerce-add.php" class="btn btn-primary btn-rounded box-shadow btn-icon"><i class="fa fa-plus"></i> Add New Object</a>
+								<a href="Ajout-objet.php" class="btn btn-primary btn-rounded box-shadow btn-icon"><i class="fa fa-plus"></i> Add New Object</a>
                             </div>
 							Object
 							<p class="text-muted">Lorem ipsum dolor sit amet</p>
@@ -100,138 +100,8 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
-                                            <td>0001</td>
-                                            <td>Box 1</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                               
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0002</td>
-                                            <td>Box 2</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0003</td>
-                                            <td>Box 3</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                               
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0004</td>
-                                            <td>Box 4</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0005</td>
-                                            <td>Box 5</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0006</td>
-                                            <td>Box 6</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0007</td>
-                                            <td>Box 7</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                               
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0008</td>
-                                            <td>Box 8</td>
-                                            <td>Description for Box</td>
-                                           
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>0009</td>
-                                            <td>Box 9</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>00010</td>
-                                            <td>Box 10</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>00011</td>
-                                            <td>Box 11</td>
-                                            <td>Description for Box</td>
-                                            
-                                            <td>15/07/2018</td>
-                                            <td class="text-center">
-                                                
-												<button type="button" class="btn btn-sm btn-success"><i class="fa fa-edit"></i></button>
-												<button type="button" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></button>
-                                            </td>
-                                        </tr>
+                                       
+                                      
                                         <tr>
                                             <td>00012</td>
                                             <td>Box 12</td>
