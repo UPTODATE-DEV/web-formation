@@ -1,3 +1,10 @@
+<?php 
+ include 'config/connect.php';
+
+ if(empty($_SESSION['user'])){
+	 header('location:login.php');
+ }
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -66,35 +73,36 @@
                             Basic Steps
                         </div>
                         <div class="card-body">
-                            <form method="post" class="form-horizontal" action="new.php">
+                            <form  method="post" class="form-horizontal" action="new.php">
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
-								    <input type="text" class="form-control" id="firstname" name="firstname" placeholder=" First name" />
+								    <input type="text" class="form-control" id="firstname" name="name" placeholder=" First name" />
 							      </div>
 
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
-								    <input type="text" class="form-control" id="username" name="username" placeholder="username" />
+								    <input type="text" class="form-control" id="firstname" name="username" placeholder="username" />
 							      </div>
 							      
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
-								    <input type="password" class="form-control" id="firstname" name="" placeholder="password" />
+								    <input type="password" class="form-control" id="firstname" name="password" placeholder="password" />
 							      </div>
 							      
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
-								    <input type="mail" class="form-control" name="mail" placeholder="mail" />
+								    <input type="email" class="form-control" id="firstname" name="mail" placeholder="mail" />
 							      </div>
 							      
 								</div>
 								</div>
-								<input class="btn btn-primary" type="submit" name="" value="Enregistrer">
+								<input type="submit" class="btn btn-primary" id="firstname" name="" value="Enregistrer" />
 							</div>
+
 						</form>
                         </div>
                     </div>

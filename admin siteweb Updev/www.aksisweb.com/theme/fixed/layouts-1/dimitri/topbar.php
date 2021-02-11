@@ -156,7 +156,7 @@
 									</li>
 									<li class="dropdown-divider"></li>
 									<li>
-										<a class="dropdown-item" href="javascript:%20void(0);"><i class="icon-logout"></i> Logout</a>
+										<a class="dropdown-item" href="logout.php"><i class="icon-logout"></i> Logout</a>
 									</li>
 								</ul>
 							</li>

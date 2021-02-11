@@ -310,7 +310,7 @@
 					  </div>
 					  <div class="modal-body">
                             <form role="form">
-                                <div class="form-group">
+                                <div  method="POST" class="form-group" action="#">
 										<label>Gallery Images</label>
 										<div class="fileinput fileinput-new input-group col-md-12" data-provides="fileinput">
 											  <div class="form-control" data-trigger="fileinput"><span class="fileinput-filename"></span></div>

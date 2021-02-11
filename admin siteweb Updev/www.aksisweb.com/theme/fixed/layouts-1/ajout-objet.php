@@ -75,7 +75,7 @@
                         </div>
                         <div class="card-body">
 							
-                            <form method="get" action="#" class="form-horizontal">
+                            <form method="POST" action="box.php" class="form-horizontal">
 							
 									<div class="form-group">
 										<label>Name</label>
