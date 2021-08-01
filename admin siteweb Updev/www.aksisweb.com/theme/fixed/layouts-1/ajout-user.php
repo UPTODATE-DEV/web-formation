@@ -90,17 +90,32 @@
 
 							</div>	
  							
-							<div class="form-group">
-								<div class="checkbox checkbox-primary margin-r-5">
-
-									<input type="checkbox" id="checkbox2 agree" name="agree" value="agree" />
-									<label for="checkbox2 agree"> Please agree to our policy</label>
-								</div>
-							</div>
+							
 
 							<div class="form-group">
 									<button type="submit" class="btn btn-primary" name="confirm" value="Sign up">Confirm</button>
 							</div>
+							 <div class="col-md-12">
+                    <div class="card">
+                       
+                        <div class="card-body">
+                            <table class="table">
+                            <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>First name</th>
+                                <th>Username</th>
+                                <th>Email</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                           
+                            </tbody>
+                        </table>
+                         </div>
+                    </div>
+                </div>
+
 						</form>
                         </div>
                     </div>

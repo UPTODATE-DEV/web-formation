@@ -29,36 +29,19 @@
                                  <li class="nav-item"><a class="nav-link" href="all-objet.php">All object</a></li>
                             </ul>
                         </li>
-                        					
-						
-                         <li class="nav-item">
-                            <a class="nav-link" href="javascript: void(0);" aria-expanded="false"><i class="fa fa-folder"></i> <span class="toggle-none">Sample Pages <span class="fa arrow"></span></span></a>
-                            <ul class="nav-second-level nav flex-column sub-menu" aria-expanded="false">
-                                
-                                <li class="nav-item"><a class="nav-link" href="page-login.php">Login</a></li>
-                                <li class="nav-item"><a class="nav-link" href="page-register.php">Register</a></li>
-                                <li class="nav-item"><a class="nav-link" href="page-forget-password.php">Forget Password</a></li>
-                               
-                               
-                                
-                            </ul>
-                        </li>
-                        <li class="nav-heading"><span>FORMS, TABLE & LAYOUTS</span></li>
-
+                      
                         <li class="nav-item">
-                            <a  class="nav-link" href="javascript: void(0);" aria-expanded="false"><i class="fa fa-cogs"></i> <span class="toggle-none">UI elements <span class="fa arrow"></span></span></a>
+                            <a  class="nav-link" href="javascript: void(0);" aria-expanded="false"><i class="fa fa-group"></i> <span class="toggle-none">Team<span class="fa arrow"></span></span></a>
                             <ul class="nav-second-level nav flex-column sub-menu" aria-expanded="false">
-								
-                                <li class="nav-item"><a class="nav-link" href="ui-icons.html">Icons</a></li>
-								<li class="nav-item"><a class="nav-link" href="ui-buttons.html">Buttons</a></li>
-                              
+								<li class="nav-item"><a class="nav-link" href="Ajout-Membre.php">Add member</a></li>
+                             
                             </ul>
                         </li>						
                        
                         <li class="nav-item">
                             <a class="nav-link" href="javascript: void(0);" aria-expanded="false"><i class="fa fa-map-marker"></i> <span class="toggle-none">Maps <span class="fa arrow"></span></span></a>
                             <ul class="nav-second-level nav flex-column sub-menu" aria-expanded="false">
-                                <li class="nav-item"><a class="nav-link" href="map-vector.html">Vector map</a></li>
+                                <li class="nav-item"><a class="nav-link" href="map-vector.php">Vector map</a></li>
                                 
                             </ul>
                         </li>
